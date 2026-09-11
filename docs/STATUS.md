@@ -1,6 +1,6 @@
 # STATUS — hermes-support-agent (living document)
 
-Last updated: 2026-09-11. Decisions are recorded here per AGENT_RULES.md.
+Last updated: 2026-09-11. Decisions are recorded here as the build proceeds.
 
 ## Done
 

@@ -8,6 +8,12 @@ it isn't confident enough to answer.
 Built by Mahmoud Saeed as a portfolio project backing
 [mahmoudsaeed.com/work/support-agent-rag](https://mahmoudsaeed.com/work/support-agent-rag).
 
+## Demo
+
+![Demo — a real offline run](docs/assets/demo.gif)
+
+One command runs the whole pipeline offline with zero credentials: `./scripts/demo.sh`. The suite is also one command — `pytest -q` → **48 passed**, no network. The GIF above is an unedited recording of the demo (sped up); the [full-quality MP4](docs/assets/demo.mp4) is in this repo.
+
 ## Why this exists
 
 Small teams answer the same ten questions over and over. A naive chatbot
