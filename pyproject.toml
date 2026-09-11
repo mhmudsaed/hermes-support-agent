@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68,<70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hermes-support-agent"
+version = "1.0.0"
+description = "Bilingual (Arabic/English) support agent: cited answers from your docs, tickets on low confidence."
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+license = { text = "MIT" }
+authors = [{ name = "Mahmoud Saeed" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3,<9"]
+pg = ["psycopg[binary]>=3.1,<4"]
+
+[project.scripts]
+support-agent = "support_agent.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["support_agent*"]
+
+[tool.ruff]
+line-length = 100

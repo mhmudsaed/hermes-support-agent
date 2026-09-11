@@ -1,0 +1,22 @@
+[
+  {"question": "How do I request a refund?",
+   "doc": "Acme Cloud Billing", "section_key": "Refund", "lang": "en"},
+  {"question": "When does a downgrade take effect?",
+   "doc": "Acme Cloud Billing", "section_key": "plan", "lang": "en"},
+  {"question": "What happens after two failed payment retries?",
+   "doc": "Acme Cloud Billing", "section_key": "Failed payments", "lang": "en"},
+  {"question": "How long is the password reset link valid?",
+   "doc": "Acme Cloud Accounts", "section_key": "password", "lang": "en"},
+  {"question": "What do I need if I lose access to my second factor?",
+   "doc": "Acme Cloud Accounts", "section_key": "Two-factor", "lang": "en"},
+  {"question": "When is live chat support available?",
+   "doc": "Acme Cloud Support Hours", "section_key": "Contacting", "lang": "en"},
+  {"question": "What is the first response time for Pro plans?",
+   "doc": "Acme Cloud Support Hours", "section_key": "Response", "lang": "en"},
+  {"question": "كيف أطلب استرداد المبلغ؟",
+   "doc": "الفوترة", "section_key": "الاسترداد", "lang": "ar"},
+  {"question": "كم مدة صلاحية رابط إعادة تعيين كلمة المرور؟",
+   "doc": "accounts-ar", "section_key": "إعادة تعيين كلمة المرور", "lang": "ar"},
+  {"question": "متى يسري تخفيض الخطة الجديد؟",
+   "doc": "الفوترة", "section_key": "تغيير الخطة", "lang": "ar"}
+]
