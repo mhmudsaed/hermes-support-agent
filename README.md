@@ -10,13 +10,11 @@ Built by Mahmoud Saeed as a portfolio project backing
 
 ## Demo
 
-![Demo — a real offline run](docs/assets/demo.gif)
-
 ▶️ Full-quality recording (plays inline):
 
-https://github.com/user-attachments/assets/f6784820-ce3d-4d20-9b0b-21df19c3e04f
+https://github.com/user-attachments/assets/49d04840-d249-4bfd-a321-b27e4e1c9613
 
-One command runs the whole pipeline offline with zero credentials: `./scripts/demo.sh`. The suite is also one command — `pytest -q` → **48 passed**, no network. The GIF above is a real recording of the demo (sped up; it opens with a title card); the [full-quality MP4](docs/assets/demo.mp4) is in this repo.
+One command runs the whole pipeline offline with zero credentials: `./scripts/demo.sh`. The suite is also one command — `pytest -q` → **48 passed**, no network. The video above is a real recording of the demo (mildly sped up; it opens and closes on a title card). The [full-quality MP4](docs/assets/demo.mp4) is also in this repo.
 
 ## Why this exists
 
