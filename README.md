@@ -12,7 +12,7 @@ Built by Mahmoud Saeed as a portfolio project backing
 
 ▶️ Full-quality recording (plays inline):
 
-https://github.com/user-attachments/assets/49d04840-d249-4bfd-a321-b27e4e1c9613
+https://github.com/user-attachments/assets/cfed5f22-7eef-4a50-b0a8-5b2512eb7c29
 
 One command runs the whole pipeline offline with zero credentials: `./scripts/demo.sh`. The suite is also one command — `pytest -q` → **48 passed**, no network. The video above is a real recording of the demo (mildly sped up; it opens and closes on a title card). The [full-quality MP4](docs/assets/demo.mp4) is also in this repo.
 
